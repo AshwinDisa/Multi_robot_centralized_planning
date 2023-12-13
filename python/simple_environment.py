@@ -16,7 +16,7 @@ class SimpleEnvironment(object):
         self.upper_limits = np.array([0.30, 0.60])
 
         self.robots = []
-        self.robot_radius = 0.05
+        self.robot_radius = 0.01
         self.inflation_radius = 0.01
 
         self.map_id = map_id
