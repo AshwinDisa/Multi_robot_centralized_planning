@@ -14,7 +14,7 @@ def main():
 
     prm = PRMPlanner(map_id=1, filepath=None)
 
-    test = 1
+    test = 3
 
     if test == 1:
         # Test 1 robot
