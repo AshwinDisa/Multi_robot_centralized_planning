@@ -1,0 +1,228 @@
+Wed Dec 13 17:31:36 2023
+WARNING: mju_openResource: unknown file 'C:\work\GITLAB\mujoco-simulink-blockset\blocks\dummy.xml'
+
+Wed Dec 13 17:31:38 2023
+WARNING: mju_openResource: unknown file 'C:\work\GITLAB\mujoco-simulink-blockset\blocks\dummy.xml'
+
+Wed Dec 13 17:36:30 2023
+WARNING: mju_openResource: unknown file 'speedbot'
+
+Wed Dec 13 17:36:35 2023
+WARNING: mju_openResource: unknown file 'speedbot'
+
+Wed Dec 13 17:36:54 2023
+WARNING: File size over 2GB is not supported. File: '/home/manoj/work/courses/Multi_robot_centralized_planning/mujoco'
+
+Wed Dec 13 17:36:54 2023
+WARNING: mju_openResource: unknown file '/home/manoj/work/courses/Multi_robot_centralized_planning/mujoco'
+
+Wed Dec 13 17:36:55 2023
+WARNING: mju_openResource: unknown file 'C:\work\GITLAB\mujoco-simulink-blockset\blocks\dummy.xml'
+
+Wed Dec 13 17:37:03 2023
+WARNING: File size over 2GB is not supported. File: '/home/manoj/work/courses/Multi_robot_centralized_planning/mujoco'
+
+Wed Dec 13 17:37:03 2023
+WARNING: mju_openResource: unknown file '/home/manoj/work/courses/Multi_robot_centralized_planning/mujoco'
+
+Wed Dec 13 17:37:11 2023
+WARNING: File size over 2GB is not supported. File: '/home/manoj/work/courses/Multi_robot_centralized_planning/mujoco'
+
+Wed Dec 13 17:37:11 2023
+WARNING: mju_openResource: unknown file '/home/manoj/work/courses/Multi_robot_centralized_planning/mujoco'
+
+Wed Dec 13 17:45:01 2023
+WARNING: mju_openResource: unknown file 'C:\work\GITLAB\mujoco-simulink-blockset\blocks\dummy.xml'
+
+Wed Dec 13 17:45:01 2023
+WARNING: File size over 2GB is not supported. File: '/home/manoj/work/courses/Multi_robot_centralized_planning/mujoco'
+
+Wed Dec 13 17:45:01 2023
+WARNING: mju_openResource: unknown file '/home/manoj/work/courses/Multi_robot_centralized_planning/mujoco'
+
+Wed Dec 13 17:45:05 2023
+WARNING: File size over 2GB is not supported. File: '/home/manoj/work/courses/Multi_robot_centralized_planning/mujoco'
+
+Wed Dec 13 17:45:05 2023
+WARNING: mju_openResource: unknown file '/home/manoj/work/courses/Multi_robot_centralized_planning/mujoco'
+
+Wed Dec 13 17:45:06 2023
+WARNING: mju_openResource: unknown file 'C:\work\GITLAB\mujoco-simulink-blockset\blocks\dummy.xml'
+
+Wed Dec 13 19:57:51 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 19:58:45 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 19:59:19 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 19:59:34 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:00:16 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:05:15 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:05:42 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:20:05 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:20:18 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:21:17 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:21:31 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:22:08 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:22:46 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:23:02 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:23:53 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:24:06 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:24:45 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:25:01 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:25:41 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:26:12 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:26:22 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:26:32 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:26:40 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:26:57 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:29:24 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:29:40 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:31:55 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:32:48 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:33:22 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:33:59 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:34:53 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:35:11 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:37:22 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:38:13 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:38:31 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:38:49 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:39:39 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:39:50 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:40:04 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:40:12 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:41:45 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:41:58 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:49:45 2023
+WARNING: mju_openResource: unknown file 'C:\work\GITLAB\mujoco-simulink-blockset\blocks\dummy.xml'
+
+Wed Dec 13 20:49:46 2023
+WARNING: mju_openResource: unknown file 'C:\work\GITLAB\mujoco-simulink-blockset\blocks\dummy.xml'
+
+Wed Dec 13 20:50:49 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:51:43 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:52:12 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:52:20 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:52:47 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:53:07 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:53:54 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:54:38 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:55:23 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:55:40 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:55:55 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:56:12 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:57:07 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:58:23 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+
+Wed Dec 13 20:59:40 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0000.
+

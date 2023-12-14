@@ -1,0 +1,4 @@
+<mujoco model="Speedbot test">
+    <include file='speedbot2.xml'/>
+    <include file='env.xml'/>
+</mujoco>

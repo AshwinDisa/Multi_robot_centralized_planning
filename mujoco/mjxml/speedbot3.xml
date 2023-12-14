@@ -1,0 +1,76 @@
+<mujoco>
+    <compiler angle="radian"></compiler>
+    <default>
+        <default class="smartMotor">
+            <velocity ctrlrange="-10 10" forcerange="-2.1 2.1" ctrllimited="true" forcelimited="true" kv="5"/>
+            <joint armature="0.0067"/>
+        </default>
+    
+        <default class="touch">
+            <geom rgba="0.5 0 0 0.1" type="box"/>
+            <site rgba="0.5 0 0 0.0" type="box"/>
+        </default>
+    </default>
+
+    <visual>
+        <global offwidth="1" offheight="1"/>
+    </visual>
+
+    <actuator>
+        <velocity name="fl_motor" joint="FL_joint" class="smartMotor"/>
+        <velocity name="fr_motor" joint="FR_joint" class="smartMotor"/>
+    </actuator>
+
+    <sensor>
+        <framepos name="xyz" objtype="body" objname="base_link"/>
+        <framequat name="quat" objtype="body" objname="base_link"/>
+    </sensor>
+
+
+    <contact>
+        <pair name="RL_contact" geom2="RL_cylinder" geom1="floor" friction="0.5 0.5 0.005 0.0001 0.0001"/>
+        <pair name="RR_contact" geom2="RR_cylinder" geom1="floor" friction="0.5 0.5 0.005 0.0001 0.0001"/>
+    </contact>
+
+    <worldbody>
+        <body name="base_link" pos="1.11 0.54 0" quat="1 0 0 0">
+            <inertial mass="1.388" pos="-0.058 0 -0.015" fullinertia="0.007613347 0.0138756 0.0197 -0.00027024 0.001325905 -0.0000672432"></inertial>
+            <geom pos="-0.05 0 -0.015" euler="0 0 0" type="box" size="0.127 0.127 0.0127" rgba="0.5 0.1 0.5 0.1"></geom>
+            <geom pos="0 0 0" euler="0 0 0" type="mesh" mesh="base_link" contype="0" conaffinity="0"></geom>
+            <joint type="free"></joint>
+            
+            <body name="FL" pos="0.03 0.15 -0.02" quat="0.7071054825112363 0.7071080798594735 0 0">
+                <inertial mass="0.09" pos="0 0 0" fullinertia="0.0001015 0.0001015 0.000183617 0 0 0"></inertial>
+                <geom pos="0 0 0" euler="0 0 0" type="cylinder" size="0.0508 0.01115" rgba="0.5 0.1 0.5 0.1"></geom>
+                <geom pos="0 0 0" euler="0 0 0" type="mesh" mesh="traction" contype="0" conaffinity="0"></geom>
+                <joint name="FL_joint" type="hinge" axis="0 0 1" pos="0 0 0" class="smartMotor"></joint>
+            </body>
+            <body name="FR" pos="0.03 -0.15 -0.02" quat="0.7071054825112363 0.7071080798594735 0 0">
+                <inertial mass="0.09" pos="0 0 0" fullinertia="0.0001015 0.0001015 0.000183617 0 0 0"></inertial>
+                <geom pos="0 0 0" euler="0 0 0" type="cylinder" size="0.0508 0.01115" rgba="0.5 0.1 0.5 0.1"></geom>
+                <geom pos="0 0 0" euler="0 0 0" type="mesh" mesh="traction" contype="0" conaffinity="0"></geom>
+                <joint name="FR_joint" type="hinge" axis="0 0 1" pos="0 0 0" class="smartMotor"></joint>
+            </body>
+            <body name="RL" pos="-0.133305 0.15 -0.020691" quat="0.7071054825112363 0.7071080798594735 0 0">
+                <inertial mass="0.10188" pos="0 0 0" fullinertia="0.0000974149 0.0000974149 0.000183617 0 0 0"></inertial>
+                <geom name="RL_cylinder" pos="0 0 0" euler="0 0 0" type="cylinder" size="0.0508 0.01115" rgba="0.5 0.1 0.5 0.1"></geom>
+                <geom pos="0 0 0" euler="0 0 0" type="mesh" mesh="omni" contype="0" conaffinity="0"></geom>
+                <joint name="RL_joint" type="hinge" axis="0 0 1" pos="0 0 0"></joint>
+            </body>
+            <body name="RR" pos="-0.133305 -0.15 -0.020691" quat="0.7071054825112363 0.7071080798594735 0 0">
+                <inertial mass="0.10188" pos="0 0 0" fullinertia="0.0000974149 0.0000974149 0.000183617 0 0 0"></inertial>
+                <geom name="RR_cylinder" pos="0 0 0" euler="0 0 0" type="cylinder" size="0.0508 0.01115" rgba="0.5 0.1 0.5 0.1"></geom>
+                <geom pos="0 0 0" euler="0 0 0" type="mesh" mesh="omni" contype="0" conaffinity="0"></geom>
+                <joint name="RR_joint" type="hinge" axis="0 0 1" pos="0 0 0"></joint>
+            </body>
+        </body>
+    </worldbody>
+    
+    <asset>
+        <mesh name="base_link" file="base_link.stl"></mesh>
+        <mesh name="traction" file="traction.stl"></mesh>
+        <mesh name="omni" file="omni.stl"></mesh>
+        <!-- <mesh name="claw_base_link_collision" file="claw_base_link_collision.stl"></mesh>
+        <mesh name="claw_base_link" file="claw_base_link.stl"></mesh> -->
+    </asset>
+</mujoco>
