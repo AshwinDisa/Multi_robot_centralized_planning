@@ -21,7 +21,7 @@ In run.py file, there are 2 cases
 
 1) map_id = 1 and test = 3 for 5 robots in open map (circular formation)
 
-2) map_id = 2 and test = 2 for 4 robots in I map
+2) map_id = 2 and test = 2 for 4 robots in H map
 
 To visualize the results
 ```
@@ -40,6 +40,11 @@ Copy Paste the resulting output into one of the python3 visualization files list
 https://github.com/AshwinDisa/Multi_robot_centralized_planning/assets/69672043/a4adaec2-d270-4d85-8d38-e30e69af26d5
 
 https://github.com/AshwinDisa/Multi_robot_centralized_planning/assets/69672043/c066973b-7512-4901-b0df-42a1b92e0982
+
+## MuJoCo simulation
+
+
+https://github.com/AshwinDisa/Multi_robot_centralized_planning/assets/69672043/fccdcf33-6430-4512-bf34-126487f269b7
 
 
 
